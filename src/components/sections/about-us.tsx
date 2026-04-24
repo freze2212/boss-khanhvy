@@ -67,7 +67,7 @@ export const SectionAboutUs = () => {
 						<div className="w-full max-w-4xl">
 							<div className="aspect-video w-full overflow-hidden rounded-lg bg-black">
 								<iframe
-									src="https://player.vimeo.com/video/1186209631?autoplay=0&muted=0&controls=1"
+									src="https://player.vimeo.com/video/1186209631?autoplay=0&muted=0&controls=1&title=0&byline=0&portrait=0"
 									className="h-full w-full"
 									allow="autoplay; fullscreen; picture-in-picture"
 									allowFullScreen
